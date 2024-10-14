@@ -8,7 +8,8 @@
 <body>
     <label>Suba su excel</label><br>
     <form action="recibir.php" method="POST">
-    <input type="file" class="Subir">
+    <input type="file" class="Subir"><br>
+    <a href=""><input type="submit" value="Enviar excel"></a>
     </form>
 </body>
 </html>
