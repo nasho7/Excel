@@ -1,6 +1,6 @@
 <?php
 
-require('conexion2.php');
+require('conexion.php');
 require('fpdf.php');
 
 
